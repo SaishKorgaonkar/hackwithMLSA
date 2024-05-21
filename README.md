@@ -1,2 +1,2 @@
 # hackwithMLSA
-making a AI product - Team Glitch
+making a AI based product - Team Glitch
